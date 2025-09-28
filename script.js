@@ -9,7 +9,7 @@ if(input.value.trim() === ""){
     input.value = ""
     return
 }
-
+else
 
 tarefas.push(tarefa)
 input.value = ""
